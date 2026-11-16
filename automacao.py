@@ -19,3 +19,4 @@ input("Pressione ENTER para fechar...")
 
 driver.quit()
 # Projeto QA - treinamento pratico de Git
+# QA - tarefa de validacao de login
