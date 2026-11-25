@@ -1,0 +1,5 @@
+Projeto QA Serverest
+Testes de login:
+- Login com credenciais válidas
+- Login com senha incorreta
+- Login com email inexistente
